@@ -34,8 +34,7 @@ telegram-api-finder-bot/
 ├── README.md             # Documentation
 ├── .env.example          # Environment variable template
 │
-├── data/
-│   └── apis.json         # API dataset
+
 ```
 
 ---
