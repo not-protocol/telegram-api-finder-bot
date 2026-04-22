@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="https://github.com/not-protocol/telegram-api-finder-bot">
+    <img src="banner.png" alt="Banner" />
+  </a>
+</p>
 # 🤖 Telegram API Finder Bot
 
 A powerful Telegram bot that helps you **discover APIs instantly** by searching through a dataset or GitHub repository using simple keywords.
